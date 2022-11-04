@@ -1,0 +1,9 @@
+/------------------------------/
+|			       |
+|           AVISO 	       |
+|                              |
+/------------------------------/
+
+El sitio 2 aún no está terminado por falta de tiempo,
+por lo que pueden haber errores y mala optimización
+(si quiera lo hice responsive, imaginate xD).

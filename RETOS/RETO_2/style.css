@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;200;300;400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+
+    background: #272727;
+    color: #FFF;
+}
+
+
+.title__name{
+    font-size: 82px;
+    font-weight: 500;
+    
+    line-height: 108.15px;
+    margin: 40px 0 0px 0;
+}
+
+.photo{
+    width: 254px;
+    height: 254px;
+
+    border-radius: 100%;
+    margin: 45px 0 40px 0;
+}
+
+.description{
+    width: 45%;
+    margin: 0px auto 32px auto;
+
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.btn__container{
+    width: 50%;
+    margin: auto;
+}
+
+.btn{
+    text-decoration: none;
+    display: block;
+
+    width: 100%;
+    border: 1px solid #FFF;
+
+    margin-top: 15px;
+    height: 23px;
+
+    text-align: center;
+    padding: 15px 0;
+}
+
+.linkedin{
+    background-color: #FFC700;
+    color: #000;
+    border: 1px solid #000;
+}
+
+footer{
+    width: 50%;
+    margin: 25px auto 15px auto;
+}
+
+#special__btn{
+    margin-bottom: 0;
+}
+
+.icon_foo{
+    font-size: 30px;
+    margin-right: 17px;
+
+    cursor: pointer;
+    color: #FFC700;
+}
